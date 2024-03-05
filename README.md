@@ -11,6 +11,7 @@
 - ForEach ( for view creation & conformance to hashable)
 - use UIKit components like Safari here using UIViewControllerRepresentable & UIViewRepresentable
 - sheet / fullScreenCover
+- @State, @Binding, @ObservedObject, @StateObject
 
   
 ![AppleFrameworks](https://github.com/saanicagupta/AppleFrameworks_swiftUI/assets/88944319/6f8ff92c-81d5-42df-85c6-805508e63025)
