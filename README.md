@@ -1,5 +1,5 @@
 # Apple Frameworks
-## This is for the purpose of learning swiftUI.
+### This is for the purpose of learning swiftUI.
 ### Apple Frameworks uses following to display data about different Apple frameworks and read more on safari:
 - Language Construct: swift 5
 - Design Pattern: MVVM 
